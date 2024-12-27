@@ -35,7 +35,7 @@ Feature Explanation:
 
     Baseline Accuracy: 0.7989
     Baseline ROC-AUC : 0.8960
-# Experminetal model: Xgboost ::
+# Experimental model: Xgboost ::
 
     Experimental Accuracy: 0.8212
     Experimental ROC-AUC : 0.9039
