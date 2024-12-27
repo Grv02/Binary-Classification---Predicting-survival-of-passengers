@@ -29,3 +29,12 @@ Feature Explanation:
   Cabin: Cabin number (if applicable). Many values are missing.
   
   Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
+
+
+# Baseline mode: Logistic regression. ::
+  Baseline Accuracy: 0.7989
+  Baseline ROC-AUC : 0.8960
+# Experminetal model: Xgboost ::
+
+    Experimental Accuracy: 0.8212
+    Experimental ROC-AUC : 0.9039
