@@ -32,8 +32,9 @@ Feature Explanation:
 
 
 # Baseline mode: Logistic regression. ::
-  Baseline Accuracy: 0.7989
-  Baseline ROC-AUC : 0.8960
+
+    Baseline Accuracy: 0.7989
+    Baseline ROC-AUC : 0.8960
 # Experminetal model: Xgboost ::
 
     Experimental Accuracy: 0.8212
